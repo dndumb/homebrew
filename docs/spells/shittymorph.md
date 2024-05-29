@@ -1,7 +1,3 @@
----
-sidebar_position: 2
----
-
 # Shittymorph
 
 _4th-level transmutation_ \

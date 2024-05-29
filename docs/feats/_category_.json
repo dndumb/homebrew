@@ -1,0 +1,8 @@
+{
+  "label": "Feats",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Some custom feats you can use"
+  }
+}
