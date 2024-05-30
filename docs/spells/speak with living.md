@@ -1,4 +1,4 @@
-#### Speak with Living
+# Speak with Living
 *3rd-level enchantment*
 ___
 - **Casting Time:** 1 action

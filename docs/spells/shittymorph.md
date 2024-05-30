@@ -1,9 +1,9 @@
 # Shittymorph
 *4th-level transmutation*
 ___
-- **Casting Time**: 1 action \
-- **Range**: 60 feet \
-- **Components**: V, S, M (a piece of poop) \
+- **Casting Time**: 1 action
+- **Range**: 60 feet
+- **Components**: V, S, M (a piece of poop)
 - **Duration**: Concentration, up to 1 hour
 ---
 Choose one creature that you can see within range. You transform the creature into a non-magical shit. The transformation
