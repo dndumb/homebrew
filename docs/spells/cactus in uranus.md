@@ -3,9 +3,11 @@
 ___
 - **Casting Time**: 1 action
 - **Range**: 90 feet
-- **Components**: V, S, M (a jar of oil or a jar of vaselline)
+- **Components**: V, S, M (a jar of oil or a jar of vaseline)
 - **Duration**: Instantaneous
 ---
-A creature of your choice must make a Constitution Saving throw. A creature get 4d8 bludgeoning damages on a failed save, or half as much on a successful one. 
-If the throw is failed the creature must spent an action to remove the cactus from his anus or get 1d8 damage at the start of every turn.
-After 1d4 turns with the cactus inside (throw the dice if the creature fail) the creature must make a charisma saving throw on a failed save he turn gay if is a male straight creature or became a nymphomaniacs.
+A creature of your choice must make a Constitution Saving throw. A creature gets 4d8 bludgeoning damage on a failed save, or half as much on a successful one. 
+
+If the throw is failed, the creature must spend an action to remove the cactus from his/her anus or get 1d8 piercing damage at the start of every turn.
+
+After 1d4 turns with the cactus inside, the creature must make a Charisma saving throw; on a failed save, he turns gay if he is a male straight creature, otherwise the creature becomes a nymphomaniac.
