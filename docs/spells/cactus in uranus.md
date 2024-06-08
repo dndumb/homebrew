@@ -11,4 +11,5 @@ If the throw is failed, the creature must spend an action to remove the cactus f
 After 1d4 turns with the cactus inside, the creature must make a Charisma saving throw; on a failed save, he turns gay if he is a male straight creature, otherwise the creature becomes a nymphomaniac. 
 
 **At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d8 for each slot level above 5th.
+
 **Spell lists.** Bard, Warlock and Druid.
