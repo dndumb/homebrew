@@ -1,6 +1,9 @@
-# Fucker
+### Fucker
 
-_Prerequisite: 13+ Charisma_
+**Prerequisite:** 13+ Charisma
 
-You have advantage on all Charisma checks to seduce someone. \
-If you have sex with someone for free, you can recover 2 of your hit dice after the sexual intercourse without spending them.
+You have advantage on all Charisma checks to seduce someone.
+
+**Sexual Recovery:**
+
+If you have consensual sex with someone for free, you can roll 2 of your hit dice to regain some HP after the sexual intercourse without spending them.
