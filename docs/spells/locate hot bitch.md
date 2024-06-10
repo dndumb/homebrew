@@ -1,4 +1,4 @@
-### Locate Hot Bitch
+# Locate Hot Bitch
 *4th-level divination*
 ___
 - **Casting Time:** 1 action

@@ -1,4 +1,4 @@
-### Useless Weapon
+# Useless Weapon
 
 _Weapon (any weapon), rare (requires attunement)_
 

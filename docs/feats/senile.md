@@ -1,4 +1,4 @@
-### Senile
+# Senile
 
 **Prerequisite:** Your character must be at the end of their life.
 

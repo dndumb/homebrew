@@ -1,4 +1,4 @@
-### Deletus Fetus
+# Deletus Fetus
 *Enchantment Cantrip*
 ___
 - **Casting Time:** 1 bonus action
