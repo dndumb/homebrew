@@ -3,7 +3,7 @@
 ___
 - **Casting Time:** 1 action
 - **Range:** Self
-- **Components:** V, S, M (a pussy hair)
+- **Components:** V, S, M (something that the hot bitch had, like a scarf)
 - **Duration:** Concentration, up to 1 hour
 ___
 
