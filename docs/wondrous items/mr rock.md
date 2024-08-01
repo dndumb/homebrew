@@ -1,6 +1,6 @@
 # Mr. Rock
 
-_Wondrous Item Need Attunement_
+_Wondrous Item (Requires Attunement)_
 
 Mr. Rock is a rock with a smile drawn on it with some kind of paint (the color is chosen by the DM).
 
